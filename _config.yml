@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Better Terraform Practices
-email: zack.higdon@gmail.com
+title: Damien Babin Portfolio
+email: damienbabin2@gmail.com
 description: >- 
-  Better Terraform Practices Documentation
+ Damien Babin Portfolio Documentation
 baseurl: "" # the subpath of your site, should match repository name
-url: "https://betterterraformpractices.com" # replace with your GitHub username
-github_username: Zigdon7
+url: "https://portfolio.dbabin.com" # replace with your GitHub username
+github_username: DamienBabin
 
 # Build settings
 theme: just-the-docs
@@ -33,7 +33,7 @@ color_scheme: dark
 # ... rest of your existing config ...
 aux_links:
   "View on GitHub":
-    - "https://github.com/Zigdon7/betterterraformpractices"
+    - "https://github.com/DamienBabin/Portfolio"
 
 # Navigation
 nav:
