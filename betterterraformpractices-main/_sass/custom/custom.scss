@@ -1,0 +1,23 @@
+.nav-list {
+    .nav-list-item {
+      .nav-list-child {
+        padding-left: 1rem;
+        
+        .nav-list-item {
+          font-size: 0.9rem;
+          
+          .nav-list-grandchild {
+            padding-left: 1rem;
+            
+            .nav-list-item {
+              font-size: 0.85rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  .has-children > .nav-list-link {
+    font-weight: 500;
+  }

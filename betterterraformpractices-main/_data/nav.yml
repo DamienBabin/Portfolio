@@ -1,0 +1,74 @@
+docs_list_title: Terraservices
+docs:
+  - title: Getting Started
+    url: /getting-started/
+    children:
+      - title: Important Concepts
+        url: /getting-started/important-concepts/
+        children:
+          - title: Modules and Projects
+            url: /getting-started/important-concepts/1modules-projects/
+          - title: Architecture
+            url: /getting-started/important-concepts/2architecture/
+          - title: README Guide
+            url: /getting-started/important-concepts/3readme-guide/
+          - title: Naming Standards
+            url: /getting-started/important-concepts/4naming-standards/
+          # - title: Extra Resources
+          #   url: /getting-started/important-concepts/5extra-resources/
+      - title: Account Access
+        url: /getting-started/account-access/
+        children:
+          - title: GitHub
+            url: /getting-started/account-access/github/
+          - title: Spacelift
+            url: /getting-started/account-access/spacelift/
+          - title: Connecting GitHub to Spacelift
+            url: /getting-started/account-access/connecting-github-spacelift/
+  - title: Documentation
+    url: /my-documentation/
+    children:
+      - title: Modules
+        url: /modules/
+        children:
+          - title: Azure
+            url: /my-documentation/modules/azure/
+            children:
+              - title: Azure Database
+                url: /my-documentation/modules/azure/database/
+              - title: Azure Kubernetes Cluster
+                url: /my-documentation/modules/azure/kubernetes-cluster/
+              - title: Azure Redis Cache
+                url: /my-documentation/modules/azure/redis-cache/
+          - title: AWS
+            url: /my-documentation/modules/aws/
+            children:
+              - title: AWS RDS Database
+                url: /my-documentation/modules/aws/rds-database/
+              - title: AWS EKS Cluster
+                url: /my-documentation/modules/aws/eks-cluster/
+              - title: AWS ElastiCache Redis
+                url: /my-documentation/modules/aws/elasticache-redis/
+          - title: Spacelift
+            url: /my-documentation/modules/spacelift/
+            children:
+              - title: Azure Database
+                url: /my-documentation/modules/azure/database/
+              - title: Azure Kubernetes Cluster
+                url: /my-documentation/modules/azure/kubernetes-cluster/
+              - title: Azure Redis Cache
+                url: /my-documentation/modules/azure/redis-cache/
+          - title: AWS
+            url: /my-documentation/modules/aws/
+            children:
+              - title: AWS RDS Database
+                url: /my-documentation/modules/aws/rds-database/
+              - title: AWS EKS Cluster
+                url: /my-documentation/modules/aws/eks-cluster/
+              - title: AWS ElastiCache Redis
+                url: /my-documentation/modules/aws/elasticache-redis/
+      - title: Projects
+        url: /my-documentation/projects/
+        children:
+          - title: TFP My AWS EKS
+            url: /my-documentation/projects/tfp-my-aws-eks/
