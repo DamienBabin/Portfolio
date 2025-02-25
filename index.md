@@ -12,8 +12,7 @@ Welcome to my portfolio site. Here you can find information about me, my project
 
 - [About Me](/about-me/)
 - [My Projects](/my-projects/)
-  - [dbabin.com](/my-projects/dbabin-com/)
-  - [Terraform Cloud Azure Entra deployment](/my-projects/terraform-cloud-azure-entra/)
+  - [Terraform Cloud Azure Entra deployment](/my-projects/azure-entra/)
 - [Resume](/resume/)
 - [Contact](/contact/)
 

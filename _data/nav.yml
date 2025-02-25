@@ -5,10 +5,8 @@ docs:
   - title: My Projects
     url: /my-projects/
     children:
-      - title: dbabin.com
-        url: /my-projects/dbabin-com/
       - title: Terraform Cloud Azure Entra deployment
-        url: /my-projects/terraform-cloud-azure-entra/
+        url: /my-projects/azure-entra/
   - title: Resume
     url: /resume/
   - title: Contact
