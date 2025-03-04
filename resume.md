@@ -13,8 +13,8 @@ Dedicated and versatile professional with a strong background in military servic
 
 ## Certifications
 
-- [Microsoft Certified: Azure Fundamentals] (https://learn.microsoft.com/api/credentials/share/en-us/DamienBabin-7456/C7C47DAE6328263E?sharingId=27C120BE08F29F1D)
-- [Microsoft Certified: Azure Administrator Associate] (https://learn.microsoft.com/api/credentials/share/en-us/DamienBabin-7456/809EA9055D7E3B42?sharingId=27C120BE08F29F1D)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/DamienBabin-7456/C7C47DAE6328263E?sharingId=27C120BE08F29F1D)
+- [Microsoft Certified: Azure Administrator Associate](https://learn.microsoft.com/api/credentials/share/en-us/DamienBabin-7456/809EA9055D7E3B42?sharingId=27C120BE08F29F1D)
 - Marine Corps Combat Marksmanship Instructor (MCMP-I) (CMC 3-22)
 - Secret Security Clearance
 
