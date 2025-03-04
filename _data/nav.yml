@@ -7,10 +7,11 @@ docs:
     children:
       - title: Terraform Cloud Azure Entra deployment
         url: /my-projects/azure-entra/
+      - title: Personal Portfolio Website
+        url: /my-projects/personal-portfolio
   - title: Resume
     url: /resume/
   - title: Contact
     url: /contact/
 
   # Keep the existing documentation structure
- 
