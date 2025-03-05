@@ -16,7 +16,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 +1 (601) 473-6860
 
 ## Social Media
-- [LinkedIn](https://www.linkedin.com/in/damienbabin/)
+- [LinkedIn](https://www.linkedin.com/in/damien-babin-340b42260/)
 - [GitHub](https://github.com/DamienBabin)
 
 

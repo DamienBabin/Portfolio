@@ -44,4 +44,4 @@ Outside of technology, I enjoy spending time with my family, staying active thro
 
 ## Connect With Me
 
-I'm always open to connecting with fellow tech enthusiasts, veterans transitioning to tech, or anyone interested in DevOps and cloud computing. Feel free to reach out through my [contact page](/contact/) or connect with me on [LinkedIn](https://www.linkedin.com/in/damienbabin/).
+I'm always open to connecting with fellow tech enthusiasts, veterans transitioning to tech, or anyone interested in DevOps and cloud computing. Feel free to reach out through my [contact page](/contact/) or connect with me on [LinkedIn](https://www.linkedin.com/in/damien-babin-340b42260/).
