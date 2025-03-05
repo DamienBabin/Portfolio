@@ -45,7 +45,7 @@ Dedicated and versatile professional with a strong background in military servic
 ## Military Experience
 
 ### United States Marine Corps
-**Anti-Tank Misileman** | United States | Jun 2020 - Jun 2024
+**Anti-Tank Missileman** | United States | Jun 2020 - Jun 2024
 
 - Led and trained a 24-person infantry squad, ensuring combat readiness and mission success
 - Planned and executed complex military operations in diverse environments
