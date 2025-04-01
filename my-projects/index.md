@@ -31,4 +31,16 @@ This project demonstrates my web development and CI/CD skills:
 
 [Explore the Personal Portfolio project](/my-projects/personal-portfolio/)
 
-These projects reflect my ability to work with modern cloud technologies, implement DevOps practices, and create effective web solutions. They showcase my skills in areas such as cloud migration, infrastructure as code, web development, and continuous integration/deployment.
+## AI Dungeon Master for Tabletop RPGs
+
+This project showcases my skills in .NET development and AI integration:
+
+- Developed a web application using C# and ASP.NET Core to generate dynamic D&D-style adventures
+- Integrated OpenAI's GPT model for creating coherent and context-aware story elements
+- Implemented voice synthesis for NPC dialogue using Azure Cognitive Services
+- Created a procedural map generation system for various game settings
+- Developed a player decision impact tracking system to shape ongoing narratives
+
+[Explore the AI Dungeon Master project](/my-projects/dnd-ai-adventure/)
+
+These projects demonstrate my versatility in cloud infrastructure, DevOps practices, web development, and cutting-edge AI integration. They highlight my ability to work with diverse technologies and create innovative solutions across different domains.
