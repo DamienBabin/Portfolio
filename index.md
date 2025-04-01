@@ -18,5 +18,6 @@ Welcome to my portfolio site. Here you can find information about me, my project
 - [Resume](/resume/)
 - [Contact](/contact/)
 
-
 ## Documentation
+
+[View full documentation](/docs/)
