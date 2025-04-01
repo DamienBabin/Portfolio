@@ -9,6 +9,8 @@ docs:
         url: /my-projects/azure-entra/
       - title: Personal Portfolio Website
         url: /my-projects/personal-portfolio/
+      - title: AI Dungeon Master for Tabletop RPGs
+        url: /my-projects/dnd-ai-adventure/
   - title: Resume
     url: /resume/
   - title: Contact
