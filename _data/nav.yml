@@ -13,6 +13,11 @@ docs:
         url: /my-projects/dnd-ai-adventure/
   - title: Resume
     url: /resume/
+  - title: Documentation
+    url: /docs/
+    children:
+      - title: Certifications
+        url: /docs/certifications/
   - title: Contact
     url: /contact/
 

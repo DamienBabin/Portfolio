@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Microsoft Azure Fundamentals badge</title>
+  <desc id="desc">Badge-style mark for Microsoft Azure Fundamentals certification.</desc>
+  <rect width="420" height="420" rx="32" fill="#ffffff"/>
+  <rect x="48" y="48" width="324" height="324" rx="28" fill="#f4f8ff" stroke="#2563eb" stroke-width="10"/>
+  <path d="M191 86 88 264h92l-31 70 183-214h-96l34-34z" fill="#2563eb"/>
+  <text x="210" y="335" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="35" font-weight="700" fill="#111827">Azure Fundamentals</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">CompTIA Security+ badge</title>
+  <desc id="desc">Badge-style mark for CompTIA Security+ certification.</desc>
+  <rect width="420" height="420" rx="32" fill="#ffffff"/>
+  <circle cx="210" cy="210" r="154" fill="none" stroke="#6b7780" stroke-width="12"/>
+  <circle cx="210" cy="210" r="129" fill="none" stroke="#6b7780" stroke-width="7"/>
+  <path d="M94 248c32 48 70 72 116 72s84-24 116-72" fill="none" stroke="#6b7780" stroke-width="8" stroke-linecap="round"/>
+  <text x="210" y="118" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" fill="#df1f26">CompTIA</text>
+  <rect x="42" y="152" width="336" height="84" rx="14" fill="#e2231a"/>
+  <text x="210" y="209" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" fill="#ffffff">Security+</text>
+  <path d="M178 282v-34c0-18 14-32 32-32s32 14 32 32v34" fill="none" stroke="#6b7780" stroke-width="10" stroke-linecap="round"/>
+  <rect x="166" y="276" width="88" height="64" rx="8" fill="none" stroke="#6b7780" stroke-width="10"/>
+  <circle cx="210" cy="309" r="7" fill="#6b7780"/>
+  <text x="210" y="374" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="5" fill="#df1f26">CERTIFIED</text>
+</svg>
