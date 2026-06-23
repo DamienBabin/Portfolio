@@ -21,7 +21,7 @@
 title: Damien Babin Portfolio
 email: damienbabin2@gmail.com
 description: >- 
- Damien Babin Portfolio Documentation
+ Damien Babin DevSecOps and Cloud Infrastructure Portfolio
 baseurl: "" # the subpath of your site, should match repository name
 url: "https://portfolio.dbabin.com" # replace with your GitHub username
 github_username: DamienBabin

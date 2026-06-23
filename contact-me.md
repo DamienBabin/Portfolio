@@ -7,7 +7,7 @@ permalink: /contact/
 # Contact
 
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me using the following contact information:
+I'm open to DevOps, DevSecOps, cloud infrastructure, automation, and defense-focused opportunities. Feel free to reach out using the contact information below.
 
 ## Email
 [damienbabin2@gmail.com](mailto:damienbabin2@gmail.com)
@@ -16,7 +16,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 +1 (601) 473-6860
 
 ## Social Media
-- [LinkedIn](https://www.linkedin.com/in/damien-babin-340b42260/)
+- [LinkedIn](https://www.linkedin.com/in/damien-babin/)
 - [GitHub](https://github.com/DamienBabin)
 
 

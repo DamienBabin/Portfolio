@@ -7,27 +7,27 @@ permalink: /my-projects/
 ---
 # My Projects
 
-Here's a quick overview of the key projects I've worked on, demonstrating my skills in cloud infrastructure, DevOps practices, and web development.
+Here's a quick overview of projects that align with my current DevSecOps and cloud infrastructure focus: Azure identity automation, CI/CD, secure delivery, and practical engineering work that supports reliability and repeatability.
 
-## Terraform Cloud Azure Entra Deployment
+## Azure Entra ID Automation
 
-This project showcases my expertise in cloud migration and infrastructure as code:
+This project showcases cloud migration, Microsoft Entra ID administration, and infrastructure as code:
 
-- Migrated user management and server infrastructure from GoDaddy to Microsoft Azure
-- Implemented Azure Entra ID for enhanced identity and access management
-- Utilized Terraform Cloud for infrastructure as code, ensuring repeatable and version-controlled deployments
-- Achieved significant cost savings while improving security and scalability
+- Supported migration from a third-party provider into Microsoft 365 and Azure services
+- Automated Azure Entra ID role and group management with Terraform
+- Replaced manual identity configuration with reusable, version-controlled IaC
+- Reduced configuration drift while improving governance, security, and maintainability
 
 [Learn more about the Azure Entra project](/my-projects/azure-entra/)
 
 ## Personal Portfolio Website
 
-This project demonstrates my web development and CI/CD skills:
+This project demonstrates web development, CI/CD, and professional technical presentation:
 
 - Built using Jekyll, a static site generator, and hosted on GitHub Pages
-- Implemented a custom theme with responsive design for optimal viewing across devices
-- Set up automated deployment using GitHub Actions for seamless updates
-- Incorporated features such as custom navigation and site-wide search functionality
+- Implemented a custom dark UI with responsive layouts for desktop and mobile
+- Set up automated deployment using GitHub Actions for consistent updates
+- Structured content around cloud infrastructure, automation, certifications, and resume visibility
 
 [Explore the Personal Portfolio project](/my-projects/personal-portfolio/)
 
@@ -43,4 +43,4 @@ This project showcases my skills in .NET development and AI integration:
 
 [Explore the AI Dungeon Master project](/my-projects/dnd-ai-adventure/)
 
-These projects demonstrate my versatility in cloud infrastructure, DevOps practices, web development, and cutting-edge AI integration. They highlight my ability to work with diverse technologies and create innovative solutions across different domains.
+These projects show the range I bring to engineering work: secure cloud operations, infrastructure automation, CI/CD, web delivery, and AI-backed application development.

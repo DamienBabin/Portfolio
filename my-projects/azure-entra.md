@@ -1,39 +1,38 @@
 ---
 layout: page
-title: Terraform Cloud Azure Entra deployment
+title: Azure Entra ID Automation
 permalink: /my-projects/azure-entra/
 ---
 
-# Terraform Cloud Azure Entra deployment
+# Azure Entra ID Automation
 
 ## Project Overview
 
-This project involved migrating an organization's user management and server infrastructure from GoDaddy to Microsoft Azure, utilizing Azure Entra ID (formerly Azure Active Directory) for identity and access management. The migration was orchestrated using Terraform Cloud to ensure infrastructure as code best practices.
+This project supported a cloud migration for a local small business, including a move from a third-party email provider to Microsoft 365 and Azure-backed identity management. The work focused on Microsoft Entra ID role and group configuration, infrastructure as code, and repeatable administration patterns that reduce manual maintenance.
 
 ## Key Objectives
 
-1. Migrate all user accounts from GoDaddy to Azure Entra ID
-2. Transition server infrastructure from GoDaddy to Azure
-3. Preserve existing data during the migration process
-4. Set up user profiles and permissions in Azure Entra ID
-5. Implement the entire process using Terraform for repeatable and version-controlled deployments
-6. Optimize costs and achieve significant savings compared to the previous infrastructure
+1. Migrate email and account administration into Microsoft 365.
+2. Configure Azure Entra ID roles and groups for easier identity management.
+3. Use Terraform to make identity and access changes repeatable and version-controlled.
+4. Reduce manual configuration drift across roles, groups, and access patterns.
+5. Support network readiness through local gateway and switch configuration for remote management.
+6. Improve maintainability, security, and scalability for future cloud work.
 
 ## Project Highlights
 
-- **User Migration**: Successfully transferred all user accounts from GoDaddy to Azure Entra ID, ensuring continuity of access and minimal disruption to users.
-- **Data Preservation**: Implemented strategies to maintain data integrity during the server migration, ensuring no loss of critical information.
-- **Azure Entra ID Configuration**: Set up comprehensive user profiles and granular permissions within Azure Entra ID, tailoring access controls to organizational needs.
-- **Infrastructure as Code**: Utilized Terraform Cloud to define and manage the Azure infrastructure, including virtual machines, networking, and Azure Entra ID configurations.
-- **Automation**: Developed Terraform modules and workflows to automate the deployment process, reducing manual intervention and potential for errors.
-- **Cost Optimization**: Leveraged Azure's pricing models and resource optimization features to significantly reduce infrastructure costs compared to the previous GoDaddy setup.
+- **Microsoft 365 Migration**: Supported transition away from a third-party email provider and into standard Microsoft 365 licensing.
+- **Azure Entra ID Configuration**: Configured roles and groups to make identity administration easier to maintain.
+- **Infrastructure as Code**: Used Terraform to define repeatable identity and access resources.
+- **RBAC Governance**: Strengthened access control patterns by standardizing role-based access configuration through code.
+- **Remote Management Readiness**: Set up local gateway and switch configuration to support remote network management.
+- **Operational Support**: Assisted with troubleshooting, basic server maintenance, network fundamentals, and cloud resource management.
 
 ## Outcomes
 
-- Enhanced security posture through Azure's advanced identity and access management features
-- Improved scalability and flexibility of the server infrastructure
-- Streamlined user management processes
-- Established a foundation for future cloud-based initiatives and integrations
-- Achieved substantial cost savings, improving the organization's bottom line while enhancing capabilities
+- Improved identity governance through repeatable Entra ID role and group management.
+- Reduced risk of configuration drift by replacing manual changes with reusable Terraform modules.
+- Created a more maintainable foundation for Microsoft 365 and Azure administration.
+- Strengthened operational readiness for remote management and future cloud initiatives.
 
-This project demonstrated proficiency in cloud migration strategies, identity management in Azure, cost optimization techniques, and the application of Infrastructure as Code principles using Terraform Cloud.
+This project demonstrates practical experience with Microsoft 365 migration support, Azure Entra ID administration, Terraform-based infrastructure as code, RBAC, and operational troubleshooting.

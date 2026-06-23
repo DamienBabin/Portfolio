@@ -5,7 +5,7 @@ docs:
   - title: My Projects
     url: /my-projects/
     children:
-      - title: Terraform Cloud Azure Entra deployment
+      - title: Azure Entra ID Automation
         url: /my-projects/azure-entra/
       - title: Personal Portfolio Website
         url: /my-projects/personal-portfolio/

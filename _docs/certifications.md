@@ -8,6 +8,8 @@ nav_order: 1
 
 # Certifications
 
+These credentials support my current focus on Azure administration, secure cloud operations, infrastructure automation, and defense-aligned DevSecOps work.
+
 <div class="cert-photo-grid">
   <a class="cert-photo-card" href="https://learn.microsoft.com/api/credentials/share/en-us/DamienBabin-7456/C7C47DAE6328263E?sharingId=27C120BE08F29F1D" target="_blank" rel="noopener">
     <img src="/assets/images/microsoft-azure-fundamentals.svg" alt="Microsoft Azure Fundamentals certification badge">
@@ -31,7 +33,7 @@ nav_order: 1
   </div>
   <div class="cert-photo-card">
     <div class="cert-photo-placeholder">SC</div>
-    <strong>Secret Security Clearance</strong>
+    <strong>Active DoD Secret Security Clearance</strong>
     <small>United States Department of Defense</small>
   </div>
 </div>
