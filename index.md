@@ -6,8 +6,8 @@ nav_order: 1
 
 <section class="portfolio-hero">
   <p class="portfolio-kicker">DevSecOps | Cloud Infrastructure | Veteran Leadership</p>
-  <h1>Damien Babin Portfolio</h1>
-  <p class="portfolio-lede">I build secure cloud infrastructure, automate delivery pipelines, and turn operational pressure into reliable systems. My work blends Azure, Terraform, CI/CD, and Marine Corps leadership into practical engineering for mission-focused teams.</p>
+  <h1>Damien Babin</h1>
+  <p class="portfolio-lede">A DevSecOps and cloud infrastructure portfolio focused on secure Azure environments, automated delivery pipelines, Terraform, and mission-ready operations.</p>
   <div class="portfolio-actions">
     <a class="portfolio-button" href="/resume/">View Resume</a>
     <a class="portfolio-button secondary" href="/my-projects/">Explore Projects</a>
