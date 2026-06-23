@@ -16,7 +16,7 @@ This project showcases cloud migration support, Microsoft Entra ID administratio
 - Supported migration from a third-party provider into Microsoft 365 and Azure-backed identity services
 - Automated Azure Entra ID role and group management with Terraform-based IaC
 - Standardized RBAC patterns to reduce manual access configuration and configuration drift
-- Improved governance, maintainability, and operational readiness for future cloud work
+- Rebuilt onsite network routing and cabling with security-minded infrastructure updates
 
 [Learn more about the Azure Entra project](/my-projects/azure-entra/)
 

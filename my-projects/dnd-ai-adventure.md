@@ -10,7 +10,7 @@ permalink: /my-projects/dnd-ai-adventure/
 
 This project is an AI-assisted web application concept built around .NET application architecture, prompt engineering, state management, and cloud AI service integration. It serves as an AI Dungeon Master for tabletop RPG sessions, generating dynamic adventures, NPCs, dialogue, plot twists, and campaign context in real time.
 
-## Recruiter-Relevant Skills
+## Technical Scope
 
 - C# and ASP.NET Core application development
 - AI workflow design and prompt engineering
