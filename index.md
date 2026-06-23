@@ -1,23 +1,65 @@
 ---
 layout: home
-title: Documentation Home
+title: Home
 nav_order: 1
 ---
 
-# Damien Babin Portfolio
+<section class="portfolio-hero">
+  <p class="portfolio-kicker">DevSecOps | Cloud Infrastructure | Veteran Leadership</p>
+  <h1>Damien Babin Portfolio</h1>
+  <p class="portfolio-lede">I build secure cloud infrastructure, automate delivery pipelines, and turn operational pressure into reliable systems. My work blends Azure, Terraform, CI/CD, and Marine Corps leadership into practical engineering for mission-focused teams.</p>
+  <div class="portfolio-actions">
+    <a class="portfolio-button" href="/resume/">View Resume</a>
+    <a class="portfolio-button secondary" href="/my-projects/">Explore Projects</a>
+    <a class="portfolio-button secondary" href="/contact/">Contact Me</a>
+  </div>
+</section>
 
-Welcome to my portfolio site. Here you can find information about me, my projects, and my professional experience.
+<div class="portfolio-stats">
+<div class="portfolio-stat">
+<strong>4+ years</strong>
+<span>Leadership, training, and mission execution experience</span>
+</div>
+<div class="portfolio-stat">
+<strong>Security+</strong>
+<span>DoD 8570 IAT Level II aligned certification</span>
+</div>
+<div class="portfolio-stat">
+<strong>Azure</strong>
+<span>Certified fundamentals and administrator skill set</span>
+</div>
+</div>
 
-## Navigation
+## Focus Areas
 
-- [About Me](/about-me/)
-- [My Projects](/my-projects/)
-  - [Terraform Cloud Azure Entra deployment](/my-projects/azure-entra/)
-  - [Personal Portfolio Website](/my-projects/personal-portfolio/)
-  - [AI Dungeon Master for Tabletop RPGs](/my-projects/dnd-ai-adventure/)
-- [Resume](/resume/)
-- [Contact](/contact/)
+<div class="portfolio-grid">
+<div class="portfolio-card">
+<h3>Cloud and Identity</h3>
+<p>Azure infrastructure, Entra ID, RBAC, Office 365 administration, and secure access patterns.</p>
+</div>
+<div class="portfolio-card">
+<h3>Automation</h3>
+<p>Terraform, GitHub Actions, GitLab CI/CD, Azure Pipelines, Docker, and repeatable deployments.</p>
+</div>
+<div class="portfolio-card">
+<h3>Operations</h3>
+<p>Monitoring, troubleshooting, network fundamentals, incident response, and cost-aware support.</p>
+</div>
+</div>
 
-## Documentation
+## Featured Projects
 
-[View full documentation](/docs/)
+<div class="project-grid">
+<div class="project-card">
+<h3><a href="/my-projects/azure-entra/">Azure Entra ID Automation</a></h3>
+<p>Terraform-based identity and access management automation for consistent RBAC and reduced configuration drift.</p>
+</div>
+<div class="project-card">
+<h3><a href="/my-projects/personal-portfolio/">Portfolio CI/CD</a></h3>
+<p>Jekyll and GitHub Pages site with automated deployment and modular content for recruiter-facing visibility.</p>
+</div>
+<div class="project-card">
+<h3><a href="/my-projects/dnd-ai-adventure/">AI Adventure Builder</a></h3>
+<p>C# and AI integration project exploring dynamic narrative generation, voice, and procedural game systems.</p>
+</div>
+</div>
