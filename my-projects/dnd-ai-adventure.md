@@ -8,7 +8,16 @@ permalink: /my-projects/dnd-ai-adventure/
 
 ## Project Overview
 
-This project is an innovative web application that leverages artificial intelligence to enhance the Dungeons & Dragons (D&D) experience. Built on the .NET platform, it serves as an AI Dungeon Master, generating dynamic adventures, NPCs, and plot twists in real-time.
+This project is an AI-assisted web application concept built around .NET application architecture, prompt engineering, state management, and cloud AI service integration. It serves as an AI Dungeon Master for tabletop RPG sessions, generating dynamic adventures, NPCs, dialogue, plot twists, and campaign context in real time.
+
+## Recruiter-Relevant Skills
+
+- C# and ASP.NET Core application development
+- AI workflow design and prompt engineering
+- API integration with language models and speech services
+- SQL-backed state persistence and campaign data modeling
+- Asynchronous processing for user-facing AI features
+- Product thinking around user experience, reliability, and latency
 
 ## Key Features
 
@@ -22,15 +31,17 @@ This project is an innovative web application that leverages artificial intellig
 ## Technical Stack
 
 - **Backend**: C#, ASP.NET Core
-- **AI Integration**: OpenAI API
+- **AI Integration**: OpenAI API-style language model workflows
 - **Database**: SQL Server (for campaign management and persistence)
 - **Frontend**: Blazor WebAssembly (for interactive UI components)
+- **Cloud Services**: Azure Cognitive Services for text-to-speech concepts
 
 ## Implementation Details
 
 ### AI Adventure Engine
-- Utilizes OpenAI's GPT model to generate coherent and context-aware story elements.
-- Implements custom prompt engineering to ensure D&D-specific content and rules adherence.
+- Uses language model prompts to generate coherent and context-aware story elements.
+- Implements custom prompt engineering to keep generated content grounded in tabletop RPG rules, player context, and campaign history.
+- Maintains campaign state so generated content can respond to prior decisions instead of acting like isolated one-off prompts.
 
 ### Voice Synthesis
 - Integrates with Azure Cognitive Services for Text-to-Speech capabilities.
@@ -42,7 +53,7 @@ This project is an innovative web application that leverages artificial intellig
 
 ### Player Choice Analysis
 - Tracks player decisions and party actions.
-- Uses machine learning models to predict potential story directions and generate appropriate content.
+- Uses structured state and AI-generated reasoning to guide future story direction and generate appropriate content.
 
 ## Development Challenges and Solutions
 
@@ -56,4 +67,4 @@ This project is an innovative web application that leverages artificial intellig
 - Expansion of the AI model to include more game systems beyond D&D.
 - Implementation of a collaborative storytelling mode where multiple human players can contribute to the narrative alongside the AI.
 
-This project showcases the integration of cutting-edge AI technology with traditional tabletop gaming, demonstrating skills in backend development, AI implementation, and creating interactive web applications.
+This project showcases backend development, AI service integration, prompt engineering, stateful application design, SQL-backed persistence, and the ability to translate an open-ended user experience into a structured technical system.

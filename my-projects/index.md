@@ -7,40 +7,40 @@ permalink: /my-projects/
 ---
 # My Projects
 
-Here's a quick overview of projects that align with my current DevSecOps and cloud infrastructure focus: Azure identity automation, CI/CD, secure delivery, and practical engineering work that supports reliability and repeatability.
+Here's a quick overview of projects aligned with DevSecOps, cloud infrastructure, secure delivery, automation, and application engineering. Each project highlights practical work around reliability, repeatability, identity governance, and technical ownership.
 
 ## Azure Entra ID Automation
 
-This project showcases cloud migration, Microsoft Entra ID administration, and infrastructure as code:
+This project showcases cloud migration support, Microsoft Entra ID administration, identity governance, and infrastructure as code:
 
-- Supported migration from a third-party provider into Microsoft 365 and Azure services
-- Automated Azure Entra ID role and group management with Terraform
-- Replaced manual identity configuration with reusable, version-controlled IaC
-- Reduced configuration drift while improving governance, security, and maintainability
+- Supported migration from a third-party provider into Microsoft 365 and Azure-backed identity services
+- Automated Azure Entra ID role and group management with Terraform-based IaC
+- Standardized RBAC patterns to reduce manual access configuration and configuration drift
+- Improved governance, maintainability, and operational readiness for future cloud work
 
 [Learn more about the Azure Entra project](/my-projects/azure-entra/)
 
 ## Personal Portfolio Website
 
-This project demonstrates web development, CI/CD, and professional technical presentation:
+This project demonstrates CI/CD, static site delivery, Dockerized local development, responsive UI work, and professional technical branding:
 
-- Built using Jekyll, a static site generator, and hosted on GitHub Pages
-- Implemented a custom dark UI with responsive layouts for desktop and mobile
-- Set up automated deployment using GitHub Actions for consistent updates
-- Structured content around cloud infrastructure, automation, certifications, and resume visibility
+- Built and maintained a Jekyll portfolio hosted through GitHub Pages
+- Implemented custom SCSS, responsive cards, recruiter-facing content sections, and cleaner navigation
+- Used Docker Compose for consistent local development and GitHub Actions for automated deployment
+- Kept resume, certifications, projects, and professional messaging aligned as a version-controlled web presence
 
 [Explore the Personal Portfolio project](/my-projects/personal-portfolio/)
 
 ## AI Dungeon Master for Tabletop RPGs
 
-This project showcases my skills in .NET development and AI integration:
+This project showcases .NET application architecture, AI integration, prompt engineering, and interactive systems design:
 
-- Developed a web application using C# and ASP.NET Core to generate dynamic D&D-style adventures
-- Integrated OpenAI's GPT model for creating coherent and context-aware story elements
-- Implemented voice synthesis for NPC dialogue using Azure Cognitive Services
-- Created a procedural map generation system for various game settings
-- Developed a player decision impact tracking system to shape ongoing narratives
+- Designed a C#/.NET application concept for AI-assisted tabletop adventure generation
+- Integrated OpenAI-style language model workflows for context-aware narrative generation
+- Planned Azure Cognitive Services text-to-speech support for dynamic NPC dialogue
+- Modeled state tracking, procedural content generation, and user-driven story progression
+- Demonstrated ability to connect cloud AI services with application logic and user experience
 
 [Explore the AI Dungeon Master project](/my-projects/dnd-ai-adventure/)
 
-These projects show the range I bring to engineering work: secure cloud operations, infrastructure automation, CI/CD, web delivery, and AI-backed application development.
+These projects show the range I bring to engineering work: secure cloud operations, infrastructure automation, CI/CD, web delivery, identity governance, and AI-backed application development.

@@ -8,7 +8,16 @@ permalink: /my-projects/azure-entra/
 
 ## Project Overview
 
-This project supported a cloud migration for a local small business, including a move from a third-party email provider to Microsoft 365 and Azure-backed identity management. The work focused on Microsoft Entra ID role and group configuration, infrastructure as code, and repeatable administration patterns that reduce manual maintenance.
+This project supported a cloud migration for a local small business, including a move from a third-party email provider to Microsoft 365 and Azure-backed identity management. The work focused on Microsoft Entra ID role and group configuration, Terraform-based infrastructure as code, RBAC governance, and repeatable administration patterns that reduce manual maintenance.
+
+## Recruiter-Relevant Skills
+
+- Microsoft 365 administration and migration support
+- Microsoft Entra ID identity and access management
+- Terraform infrastructure as code for repeatable configuration
+- RBAC, IAM, group management, and access governance
+- Remote network management readiness
+- Troubleshooting, basic server support, and network fundamentals
 
 ## Key Objectives
 
@@ -22,8 +31,8 @@ This project supported a cloud migration for a local small business, including a
 ## Project Highlights
 
 - **Microsoft 365 Migration**: Supported transition away from a third-party email provider and into standard Microsoft 365 licensing.
-- **Azure Entra ID Configuration**: Configured roles and groups to make identity administration easier to maintain.
-- **Infrastructure as Code**: Used Terraform to define repeatable identity and access resources.
+- **Azure Entra ID Configuration**: Configured roles and groups to make identity administration easier to maintain and audit.
+- **Infrastructure as Code**: Used Terraform to define repeatable identity and access resources instead of relying on manual portal changes.
 - **RBAC Governance**: Strengthened access control patterns by standardizing role-based access configuration through code.
 - **Remote Management Readiness**: Set up local gateway and switch configuration to support remote network management.
 - **Operational Support**: Assisted with troubleshooting, basic server maintenance, network fundamentals, and cloud resource management.
@@ -35,4 +44,14 @@ This project supported a cloud migration for a local small business, including a
 - Created a more maintainable foundation for Microsoft 365 and Azure administration.
 - Strengthened operational readiness for remote management and future cloud initiatives.
 
-This project demonstrates practical experience with Microsoft 365 migration support, Azure Entra ID administration, Terraform-based infrastructure as code, RBAC, and operational troubleshooting.
+## Tools and Technologies
+
+- Microsoft 365
+- Microsoft Entra ID
+- Azure RBAC and IAM concepts
+- Terraform
+- Git-based version control
+- Gateway and switch configuration
+- DNS, TCP/IP, VPN, and remote connectivity fundamentals
+
+This project demonstrates practical experience with Microsoft 365 migration support, Azure Entra ID administration, Terraform-based infrastructure as code, RBAC governance, and operational troubleshooting in a small-business cloud environment.
